@@ -1,9 +1,9 @@
-You can automatically generate a complex password for your account.
+# You can automatically generate a complex password for your account.
 
-Enter the name of the site for which the account is being created.
+## 1. Enter the name of the site for which the account is being created.
 
-Enter login.
+## 2. Enter login.
 
-Create a password.
+## 3. Create a password.
 
-The data will be automatically saved in a separate file. You can always return to them.
+## 4. The data will be automatically saved in a separate file. You can always return to them.
